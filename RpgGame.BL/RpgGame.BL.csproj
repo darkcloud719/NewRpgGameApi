@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RpgGame.BL.Common\RpgGame.BL.Common.csproj" />
+    <ProjectReference Include="..\RpgGame.Data\RpgGame.Data.csproj" />
+  </ItemGroup>
+
+</Project>
